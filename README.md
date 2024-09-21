@@ -1,1 +1,1 @@
-<h1>Hello, friend</h1>
+<a href="/" class="btn btn-primary">Hello, friend</a>

@@ -1,4 +1,6 @@
-
+<!DOCTYPE html>
+<html>
+<head>
     <style>
         html,
         body {
@@ -62,6 +64,9 @@
             height: 100%;
         }
     </style>
+</head>
+<body>
+    
 
     <div class="container-fluid">
         {{-- <div class="container p-0"> --}}
@@ -635,7 +640,6 @@
 
     </div>
 
-
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <script>
         document.getElementById('comment-form').addEventListener('submit', function(e) {
@@ -926,3 +930,5 @@
 
         });
     </script>
+</body>
+</html>
